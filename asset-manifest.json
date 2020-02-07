@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "react-first/static/css/main.d3a84ed4.chunk.css",
-    "main.js": "react-first/static/js/main.0a66e403.chunk.js",
-    "main.js.map": "react-first/static/js/main.0a66e403.chunk.js.map",
-    "runtime-main.js": "react-first/static/js/runtime-main.063a83be.js",
-    "runtime-main.js.map": "react-first/static/js/runtime-main.063a83be.js.map",
-    "static/js/2.cc9173ad.chunk.js": "react-first/static/js/2.cc9173ad.chunk.js",
-    "static/js/2.cc9173ad.chunk.js.map": "react-first/static/js/2.cc9173ad.chunk.js.map",
-    "index.html": "react-first/index.html",
-    "precache-manifest.7b002230393a0a94518b2c8be0743c6e.js": "react-first/precache-manifest.7b002230393a0a94518b2c8be0743c6e.js",
-    "service-worker.js": "react-first/service-worker.js",
-    "static/css/main.d3a84ed4.chunk.css.map": "react-first/static/css/main.d3a84ed4.chunk.css.map",
-    "static/js/2.cc9173ad.chunk.js.LICENSE.txt": "react-first/static/js/2.cc9173ad.chunk.js.LICENSE.txt"
+    "main.css": "/moo1234567.github.io/react-first/static/css/main.d3a84ed4.chunk.css",
+    "main.js": "/moo1234567.github.io/react-first/static/js/main.14c1ec50.chunk.js",
+    "main.js.map": "/moo1234567.github.io/react-first/static/js/main.14c1ec50.chunk.js.map",
+    "runtime-main.js": "/moo1234567.github.io/react-first/static/js/runtime-main.19988423.js",
+    "runtime-main.js.map": "/moo1234567.github.io/react-first/static/js/runtime-main.19988423.js.map",
+    "static/js/2.cc9173ad.chunk.js": "/moo1234567.github.io/react-first/static/js/2.cc9173ad.chunk.js",
+    "static/js/2.cc9173ad.chunk.js.map": "/moo1234567.github.io/react-first/static/js/2.cc9173ad.chunk.js.map",
+    "index.html": "/moo1234567.github.io/react-first/index.html",
+    "precache-manifest.9005f1c5ce3dca74493d21a37ea9b5a6.js": "/moo1234567.github.io/react-first/precache-manifest.9005f1c5ce3dca74493d21a37ea9b5a6.js",
+    "service-worker.js": "/moo1234567.github.io/react-first/service-worker.js",
+    "static/css/main.d3a84ed4.chunk.css.map": "/moo1234567.github.io/react-first/static/css/main.d3a84ed4.chunk.css.map",
+    "static/js/2.cc9173ad.chunk.js.LICENSE.txt": "/moo1234567.github.io/react-first/static/js/2.cc9173ad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.063a83be.js",
+    "static/js/runtime-main.19988423.js",
     "static/js/2.cc9173ad.chunk.js",
     "static/css/main.d3a84ed4.chunk.css",
-    "static/js/main.0a66e403.chunk.js"
+    "static/js/main.14c1ec50.chunk.js"
   ]
 }
